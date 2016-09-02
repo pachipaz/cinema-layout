@@ -1,0 +1,107 @@
+.menu {
+	background-color:white;
+	height: 100%;
+}
+
+.cine {
+	margin-left: 10px;
+    margin-top: 31px;
+    color: white;
+}
+.banner {
+	width: 100%;
+}
+.foto {
+	height: 332px;
+} 
+.iconored {
+	width: 20%;
+}
+.fondo{
+	background-image: url("../img/banner.jpg");
+	width: 100%;
+	
+}
+
+
+h1 {
+	color: white;
+}
+.linea {
+	background-color:white;
+	height:2px;
+	width: 200px;
+	margin-left: 20px;
+
+}
+.cajaverde {
+	color:green;
+	border:green solid 1px;
+	display: inline-block;
+	width: 121px;	
+	padding:8px;
+	text-align: center;
+	margin-left: 66px;
+
+}
+.don {
+	color:grey;
+	margin-left: 228px;
+	margin-top: -25px;
+}
+table tr td{
+	color: white;
+	margin-left: 300px;
+}
+.fila1 {
+	margin-left: 20px;
+	text-align: center;
+
+
+}
+.boton1 {
+	color:white;
+	background-color: #FFA500;
+	width: 121px;	
+	padding:8px;
+}
+.boton2 {
+	color: white;
+	background-color: #DAA520;
+	width: 121px;	
+	padding:8px;
+}
+.texto {
+	color: white;
+	width: 300px;
+	margin-left: 40px;
+	font-size: 10px;
+	margin-top: 23px;
+}
+.small {
+	background-color: #DAA520;
+
+	padding-left: 45px;
+	padding-right: 45px;
+	padding-bottom: 30px;
+}
+.fotito {
+	width:175px;
+	height: 200px;
+	margin-top: 30px;
+}
+.grande{
+	width: 250px;
+	height: 250px;
+}
+.big {
+	padding-top:50px;
+}
+footer {
+	background-color:#DCDCDC;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.renuncia{
+	margin-top: 30px;
+} 
